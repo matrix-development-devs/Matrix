@@ -142,7 +142,7 @@ For help, questions, or to report issues, join the Matrix support server:
 
 ## Credits
 
-- **Owner & Lead Developer:** **[CuteBoy]()**  
+- **Owner & Lead Developer:** **[Mayaa](https://discord.com/users/888706502632816650)**  
 - **Bot Name:** Matrix  
 - Built with **Node.js** and **discord.js**.
 
