@@ -149,6 +149,6 @@ For help, questions, or to report issues, join the Matrix support server:
 <div align="center">
   <a href="https://discord.gg/dEAu566Xxg">
     <!-- Replace YOUR_GUILD_ID with your support server ID to show the live banner -->
-    <img src="https://discord.com/api/guilds/1370774418598531132/widget.png?style=banner2">
+    <img src="https://discord.com/api/guilds/1370059719393415319/widget.png?style=banner2">
   </a>
 </div>
