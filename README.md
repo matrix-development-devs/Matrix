@@ -1,6 +1,6 @@
 <h1 align="center">
  <br>
-  <img src="https://cdn.discordapp.com/avatars/1333527963412594730/36097d8e4607f8edd8be07bf1ebf669f.webp?size=128">
+  <img src="https://cdn.discordapp.com/avatars/1333527963412594730/36097d8e4607f8edd8be07bf1ebf669f.webp?size=2048">
   <br>
   Matrix – The Ultimate Discord Bot
   <br>
@@ -61,12 +61,18 @@ Matrix is a powerful, easy-to-use Discord bot designed to enhance your server ex
 | ![Info](https://img.shields.io/badge/Information-Server%20%26%20User-f50000?style=for-the-badge) | User, server, and bot info |
 | ![Voice](https://img.shields.io/badge/Voice-Join2Create-f50000?style=for-the-badge) | Join2Create, voice moderation, VC utilities |
 | ![Welcomer](https://img.shields.io/badge/Welcomer-Customizable-f50000?style=for-the-badge) | Welcome messages, autoroles, and join logs |
+| ![Selfrole](https://img.shields.io/badge/Selfrole-Reaction%20Roles-f50000?style=for-the-badge) | Interactive menus and reaction roles setup |
+| ![Leveling](https://img.shields.io/badge/Leveling-XP%20%26%20Rewards-f50000?style=for-the-badge) | XP tracking, leaderboard, and role rewards |
+| ![Stats](https://img.shields.io/badge/Stats-Server%20Counters-f50000?style=for-the-badge) | Member, voice, and channel statistics tracking |
+| ![Autoresponder](https://img.shields.io/badge/Autoresponder-Trigger%20Replies-f50000?style=for-the-badge) | Custom trigger keywords and automated answers |
+| ![Invites](https://img.shields.io/badge/Invites-Tracker-f50000?style=for-the-badge) | Tracking join sources, invitations, and invite logs |
+| ![Birthday](https://img.shields.io/badge/Birthday-Anniversaries-f50000?style=for-the-badge) | Store birthdays and post automated anniversary alerts |
 
 ## Installation
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/matrix-development-devs/Matrix.git
+   git clone https://github.com/mxtrix67/Matrix.git
    cd Matrix
    ```
 2. Install dependencies:
@@ -108,11 +114,17 @@ Matrix is organized into clear categories, including (but not limited to):
 - **AI** – Chat & utilities powered by AI
 - **Anti-Nuke / Security** – Protection, vanity guard, panic/threat modes
 - **AutoMod** – Word filters, spam filters, and automations
+- **Birthday** – Store birthdays and post automated anniversary alerts
+- **Autoresponder** – Custom trigger keywords and automated answers
 - **Fun** – Games, roleplay, and entertainment commands
 - **Giveaway** – Start, manage, and reroll giveaways
 - **Information** – User, server, and bot info
+- **Invites** – Tracking join sources, invitations, and invite logs
+- **Leveling** – XP tracking, leaderboard, and role rewards
 - **Moderation** – Ban, kick, mute, warn, lock, clear, etc.
 - **Music** – Play, pause, resume, queue, filters, and more
+- **Selfrole** – Interactive menus and reaction roles setup
+- **Stats** – Member, voice, and channel statistics tracking
 - **Tickets** – Support ticket creation and management
 - **Voice** – Join2Create, voice moderation, VC utilities
 - **Welcomer** – Welcome messages, autoroles, and join logs
@@ -126,16 +138,16 @@ You may **not** resell, redistribute, or claim Matrix as your own bot without ex
 
 For help, questions, or to report issues, join the Matrix support server:
 
-> **Discord:** https://discord.gg/uxwbXCkndv
+> **Discord:** https://discord.gg/dEAu566Xxg
 
 ## Credits
 
-- **Owner & Lead Developer:** **[CuteBoy](https://github.com/mxtrix67/Readme)**  
-- **Bot Name:** **Matrix#8250**  
+- **Owner & Lead Developer:** **[CuteBoy]()**  
+- **Bot Name:** Matrix  
 - Built with **Node.js** and **discord.js**.
 
 <div align="center">
-  <a href="https://discord.gg/uxwbXCkndv">
+  <a href="https://discord.gg/dEAu566Xxg">
     <!-- Replace YOUR_GUILD_ID with your support server ID to show the live banner -->
     <img src="https://discord.com/api/guilds/1370774418598531132/widget.png?style=banner2">
   </a>
