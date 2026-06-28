@@ -1,6 +1,6 @@
 <h1 align="center">
  <br>
-  <img src="https://cdn.discordapp.com/avatars/1333527963412594730/36097d8e4607f8edd8be07bf1ebf669f.webp?size=2048">
+  <img src="https://cdn.discordapp.com/avatars/1333527963412594730/36097d8e4607f8edd8be07bf1ebf669f.webp?size=2048" width="200" alt="Matrix Logo">
   <br>
   Matrix – The Ultimate Discord Bot
   <br>
